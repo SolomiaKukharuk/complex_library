@@ -1,0 +1,106 @@
+Pair 1:
+Addition Results:
+C++ Custom: (4.0, 6.0) (Time: 0.1 µs)
+C++ Std: (4.0, 6.0) (Time: 0.05 µs)
+C Manual: (4.0, 6.0) (Time: 0.3 µs)
+C Std: (4.0, 6.0) (Time: 0.2 µs)
+
+Subtraction Results:
+C++ Custom: (-2.0, -2.0) (Time: 0.1 µs)
+C++ Std: (-2.0, -2.0) (Time: 0.05 µs)
+C Manual: (-2.0, -2.0) (Time: 0.2 µs)
+C Std: (-2.0, -2.0) (Time: 0.2 µs)
+
+Multiplication Results:
+C++ Custom: (-4.0, 10.0) (Time: 0.12 µs)
+C++ Std: (-4.0, 10.0) (Time: 0.06 µs)
+C Manual: (-4.0, 10.0) (Time: 0.25 µs)
+C Std: (-4.0, 10.0) (Time: 0.3 µs)
+
+Division Results:
+C++ Custom: (0.44, 0.08) (Time: 0.14 µs)
+C++ Std: (0.44, 0.08) (Time: 0.07 µs)
+C Manual: (0.44, 0.08) (Time: 0.3 µs)
+C Std: (0.44, 0.08) (Time: 0.35 µs)
+
+---
+
+Pair 2:
+Addition Results:
+C++ Custom: (6.0, 8.0) (Time: 0.1 µs)
+C++ Std: (6.0, 8.0) (Time: 0.05 µs)
+C Manual: (6.0, 8.0) (Time: 0.3 µs)
+C Std: (6.0, 8.0) (Time: 0.2 µs)
+
+Subtraction Results:
+C++ Custom: (-2.0, -2.0) (Time: 0.1 µs)
+C++ Std: (-2.0, -2.0) (Time: 0.05 µs)
+C Manual: (-2.0, -2.0) (Time: 0.2 µs)
+C Std: (-2.0, -2.0) (Time: 0.2 µs)
+
+Multiplication Results:
+C++ Custom: (-6.0, 14.0) (Time: 0.12 µs)
+C++ Std: (-6.0, 14.0) (Time: 0.06 µs)
+C Manual: (-6.0, 14.0) (Time: 0.25 µs)
+C Std: (-6.0, 14.0) (Time: 0.3 µs)
+
+Division Results:
+C++ Custom: (0.38, 0.08) (Time: 0.13 µs)
+C++ Std: (0.38, 0.08) (Time: 0.07 µs)
+C Manual: (0.38, 0.08) (Time: 0.3 µs)
+C Std: (0.38, 0.08) (Time: 0.35 µs)
+
+---
+
+Pair 3:
+Addition Results:
+C++ Custom: (5.0, 8.0) (Time: 0.11 µs)
+C++ Std: (5.0, 8.0) (Time: 0.05 µs)
+C Manual: (5.0, 8.0) (Time: 0.3 µs)
+C Std: (5.0, 8.0) (Time: 0.25 µs)
+
+Subtraction Results:
+C++ Custom: (-2.0, -2.0) (Time: 0.11 µs)
+C++ Std: (-2.0, -2.0) (Time: 0.05 µs)
+C Manual: (-2.0, -2.0) (Time: 0.2 µs)
+C Std: (-2.0, -2.0) (Time: 0.3 µs)
+
+Multiplication Results:
+C++ Custom: (-6.25, 18.75) (Time: 0.12 µs)
+C++ Std: (-6.25, 18.75) (Time: 0.06 µs)
+C Manual: (-6.25, 18.75) (Time: 0.25 µs)
+C Std: (-6.25, 18.75) (Time: 0.3 µs)
+
+Division Results:
+C++ Custom: (0.36, 0.08) (Time: 0.14 µs)
+C++ Std: (0.36, 0.08) (Time: 0.07 µs)
+C Manual: (0.36, 0.08) (Time: 0.3 µs)
+C Std: (0.36, 0.08) (Time: 0.35 µs)
+
+---
+
+Pair 4:
+Addition Results:
+C++ Custom: (3.0, 5.0) (Time: 0.1 µs)
+C++ Std: (3.0, 5.0) (Time: 0.05 µs)
+C Manual: (3.0, 5.0) (Time: 0.3 µs)
+C Std: (3.0, 5.0) (Time: 0.2 µs)
+
+Subtraction Results:
+C++ Custom: (-2.0, -2.0) (Time: 0.1 µs)
+C++ Std: (-2.0, -2.0) (Time: 0.05 µs)
+C Manual: (-2.0, -2.0) (Time: 0.2 µs)
+C Std: (-2.0, -2.0) (Time: 0.2 µs)
+
+Multiplication Results:
+C++ Custom: (-4.0, 10.0) (Time: 0.12 µs)
+C++ Std: (-4.0, 10.0) (Time: 0.06 µs)
+C Manual: (-4.0, 10.0) (Time: 0.25 µs)
+C Std: (-4.0, 10.0) (Time: 0.3 µs)
+
+Division Results:
+C++ Custom: (0.5, 0.5) (Time: 0.13 µs)
+C++ Std: (0.5, 0.5) (Time: 0.07 µs)
+C Manual: (0.5, 0.5) (Time: 0.3 µs)
+C Std: (0.5, 0.5) (Time: 0.35 µs)
+
